@@ -17,4 +17,4 @@ Task management mobile application developed using Flutter and Firebase.
 
 
 ## Demo Video
-https://www.youtube.com/watch?v=rqUaKmWR0nI&feature=youtu.be
+https://www.youtube.com/shorts/9ygJB08xCs4
