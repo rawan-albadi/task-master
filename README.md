@@ -1,15 +1,20 @@
-Task Management Mobile Application
+# Task Master
 
-Overview
+Task management mobile application developed using Flutter and Firebase.
 
-  Mobile application developed using Flutter and Firebase that helps users organize tasks and earn rewards through a gamification system.
+## Features
+- Task creation and management
+- Reminder system
+- Reward and coin system
+- Custom backgrounds
+- User-friendly interface
 
-Features
-  Task management
-  Reminder system
-  Reward and coin system
-  Custom backgrounds
-Technologies
-  Flutter
-  Dart
-  Firebase
+## Technologies
+- Flutter
+- Dart
+- Firebase
+
+
+
+## Demo Video
+https://www.youtube.com/watch?v=rqUaKmWR0nI&feature=youtu.be
